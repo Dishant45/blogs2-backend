@@ -1,4 +1,12 @@
-- **app.js** this is the file in which we are creating express server and listening the server and we are connecting to database using mongoose
+# Blog-backend
+
+**BLOG Backend** is a project which will handle the backend of blog it will create new blog find a blog and delete a blog using and also tried to add images using multer mongo db
+
+# Content
+
+<hr>-
+
+**app.js** this is the file in which we are creating express server and listening the server and we are connecting to database using mongoose
 
 - **routes** this folder contains file and express router are created in each file **blogroutes.js** which has the Router all the routes for getting a blog or adding a blog and deleting blog
 
